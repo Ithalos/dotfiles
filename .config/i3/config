@@ -155,9 +155,9 @@ bar
 
 	colors
 	{
-		background #222222
-		statusline #3355cc
-		separator  #ff9900
+		background #2d2d2d
+		statusline #d64937
+		separator  #2d2d2d
 	}
  }
 
@@ -168,3 +168,6 @@ exec xinput set-prop 12 278 1
 
 # Set keymap to en_GB
 exec setxkbmap gb
+
+# Set background
+exec feh --bg-center A9BZgPm.jpg
