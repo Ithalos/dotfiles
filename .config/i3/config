@@ -156,8 +156,9 @@ bar
 	colors
 	{
 		background #2d2d2d
-		statusline #d64937
-		separator  #2d2d2d
+		statusline #257284
+		# Orange: d64937
+		separator  #64a3b2
 	}
  }
 
