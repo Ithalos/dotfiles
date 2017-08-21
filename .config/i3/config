@@ -170,4 +170,4 @@ exec xinput set-prop 12 278 1
 exec setxkbmap gb
 
 # Set background
-exec feh --bg-center A9BZgPm.jpg
+exec feh --bg-center ~/Pictures/A9BZgPm.jpg
