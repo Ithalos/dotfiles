@@ -162,8 +162,8 @@ bar
 exec xinput set-prop 12 277 1
 exec xinput set-prop 12 278 1
 
-# Set keymap to en_GB
-exec setxkbmap gb
+# Set keymap to Belgian
+exec setxkbmap be
 
 # Set background
 exec feh --bg-center ~/Pictures/A9BZgPm.jpg
