@@ -1,5 +1,7 @@
-*foreground: rgb:d6/49/37
+*foreground: rgb:25/72/84
 *background: rgb:33/33/33
 
 ! Disable scrollbar
 URxvt.scrollBar: False
+URxvt.intensityStyles: False
+URxvt.transparent: True

@@ -6,7 +6,9 @@
 # Variables
 set $term urxvt
 
-
+for_window [class="^.*"] border pixel 0
+gaps inner 10
+gaps outer 0
 
 
 set $mod Mod1
