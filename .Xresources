@@ -3,4 +3,12 @@
 
 ! Disable scrollbar
 URxvt.scrollBar: False
-URxvt.intensityStyles: False
+URxvt.intensityStyles: True
+
+! Set up colours / show default format
+!URxvt.colorN:rgb:xx/xx/xx  0 = Black; 1 = Red; 2 = Green; 3 = Yellow; 4 = Blue; 5 = Magenta; 6 = Cyan; 7 = White; 8-15 = High Intensity
+
+! Blue
+URxvt.color4:rgb:44/44/FF
+URxvt.color12:rgb:44/44/FF
+
