@@ -4,4 +4,3 @@
 ! Disable scrollbar
 URxvt.scrollBar: False
 URxvt.intensityStyles: False
-URxvt.transparent: True
