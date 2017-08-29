@@ -152,15 +152,14 @@ bar
 {
         status_command i3status
 	position top
-	font pango:DejaVu Sans Mono 9
-
+	font pango:DejaVu Sans Mono 10
 
 	colors
 	{
-		background #2d2d2d
+		background #1A1A1A
 		statusline #257284
-		# Orange: d64937
-		separator  #64a3b2
+		# Orange: D64937
+		separator  #64A3B2
 	}
  }
 
@@ -173,4 +172,4 @@ exec xinput set-prop 12 278 1
 exec setxkbmap be
 
 # Set background
-exec feh --bg-center ~/Pictures/A9BZgPm.jpg
+exec feh --bg-center ~/Pictures/mgS2xtc.png
