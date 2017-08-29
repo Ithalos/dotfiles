@@ -1,22 +1,29 @@
-!*foreground: rgb:25/72/84
-!*background: rgb:33/33/33
+!
+!	.Xresources - Ithalos
+!
+
+
 
 ! Disable scrollbar
 URxvt.scrollBar: False
-URxvt.intensityStyles: True
 
 ! Set up font
 URxvt.font: xft:Dejavu Sans Mono :size=12
 
 
 
+
+
 ! Colours
 
+! Enable intensity
+URxvt.intensityStyles: True
+
+! Main colours & transparency
 URxvt.foreground:  rgb:25/72/84
 URxvt.background:  rgb:33/33/33
 URxvt.tintColor:   rgb:BB/BB/BB
 URxvt.transparent: True
-
 
 ! Blue
 URxvt.color4:      rgb:44/44/FF
