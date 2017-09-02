@@ -30,8 +30,8 @@ URxvt.color4:      rgb:44/44/FF
 URxvt.color12:     rgb:44/44/FF
 
 ! Green
-URxvt.color2:      rgb:FF/FF/FF
-URxvt.color10:     rgb:FF/FF/FF
+URxvt.color2:      rgb:44/CC/44
+URxvt.color10:     rgb:44/CC/44
 
 ! Red
 URxvt.color1: 	   rgb:FF/44/44
