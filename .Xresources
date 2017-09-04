@@ -37,6 +37,10 @@ URxvt.color10:     rgb:44/CC/44
 URxvt.color1: 	   rgb:FF/22/22
 URxvt.color9:      rgb:FF/22/22
 
+! Yellow
+URxvt.color3:      rgb:F4/CE/42
+URxvt.color11:     rgb:F4/CE/42
+
 
 ! Colour overview
 ! 0 = Black
