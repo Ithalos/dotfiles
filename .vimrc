@@ -11,3 +11,6 @@ set number
 set shiftwidth=4
 set softtabstop=4
 set expandtab
+
+" Set encoding
+set encoding=utf-8
