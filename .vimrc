@@ -1,3 +1,7 @@
+"
+"   Ithalos .vimrc
+"
+
 " Syntax highlighting
 syntax on
 
