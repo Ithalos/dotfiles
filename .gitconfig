@@ -1,0 +1,33 @@
+#
+#   .gitconfig - Ithalos
+#
+
+
+# Core settings
+[core]
+    editor = /usr/bin/vim
+    
+# Colours
+[color]
+    diff = auto
+    branch = auto
+    status = auto
+
+[color "branch"]
+    current = white
+    local = white
+    remote = white
+
+[color "diff"]
+    meta = white
+    frag = white
+    old = white
+    new = white
+    plain = white
+
+[color "status"]
+    added = white
+    changed = white
+    untracked = white
+
+
