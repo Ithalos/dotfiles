@@ -10,8 +10,8 @@ URxvt.scrollBar: False
 ! Set up font
 URxvt.font: xft:Dejavu Sans Mono :size=12
 
-
-
+! Set up inner padding
+URxvt.internalBorder: 12
 
 
 ! Colours
