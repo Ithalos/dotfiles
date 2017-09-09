@@ -41,6 +41,10 @@ URxvt.color9:      rgb:FF/22/22
 URxvt.color3:      rgb:F4/CE/42
 URxvt.color11:     rgb:F4/CE/42
 
+! Magenta
+URxvt.color5:      rgb:6D/50/B0
+URxvt.color13:     rgb:6D/50/B0
+
 
 ! Colour overview
 ! 0 = Black
