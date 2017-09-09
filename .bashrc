@@ -28,5 +28,5 @@ print_git_branch()
 }
 
 # Format prompt
-export PS1="\[\e[33;40m\]\u\[\e[m\]\[\e[37;40m\]@\[\e[m\]\[\e[34m\]\h\[\e[m\] \W \[\e[35m\]\$(print_git_branch)\[\e[m\]$ "
+export PS1="\[\e[33m\]\u\[\e[m\]\[\e[37m\]@\[\e[m\]\[\e[34m\]\h\[\e[m\] \W \[\e[35m\]\$(print_git_branch)\[\e[m\]$ "
 
