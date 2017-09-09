@@ -45,6 +45,9 @@ URxvt.color11:     rgb:F4/CE/42
 URxvt.color5:      rgb:6D/50/B0
 URxvt.color13:     rgb:6D/50/B0
 
+! Cyan
+URxvt.color6:      rgb:00/AB/AB
+URxvt.color14:     rgb:00/AB/AB
 
 ! Colour overview
 ! 0 = Black
