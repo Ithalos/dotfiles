@@ -4,6 +4,7 @@
 
 
 # Core settings
+
 [core]
     editor = /usr/bin/vim
     
@@ -14,20 +15,19 @@
     status = auto
 
 [color "branch"]
-    current = white
+    current = green
     local = white
-    remote = white
+    remote = cyan
 
 [color "diff"]
-    meta = white
-    frag = white
-    old = white
-    new = white
-    plain = white
+    meta = yellow
+    frag = blue
+    old = red
+    new = green
+    plain = normal
 
 [color "status"]
-    added = white
-    changed = white
-    untracked = white
-
+    added = green
+    changed = yellow
+    untracked = magenta
 
