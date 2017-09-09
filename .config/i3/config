@@ -6,11 +6,14 @@
 # Variables
 set $term urxvt
 
+# Mandatory i3-gaps setting
 for_window [class="^.*"] border pixel 0
+
+# i3-gaps settings
 gaps inner 10
 gaps outer 0
 
-
+# Set modifier to ALT
 set $mod Mod1
 
 # Font for window titles. Will also be used by the bar unless a different font
