@@ -116,8 +116,8 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
-
 # resize window (you can also use the mouse for that)
+
 mode "resize"
 {
         # These bindings trigger as soon as you enter the resize mode
@@ -166,17 +166,14 @@ bar
 	}
  }
 
-
-# Bind keys for laptop backlight control
-bindsym XF86MonBrightnessUp 	exec xbacklight -inc 10
-bindsym XF86MonBrightnessDown 	exec xbacklight -dec 10
-
-# Enable tapping support for touchpad
-exec xinput set-prop 12 277 1
-exec xinput set-prop 12 278 1
-
 # Set keymap to Belgian
 exec setxkbmap be
 
 # Set background
 exec feh --bg-center ~/Pictures/mgS2xtc.png
+
+# Bind keys for laptop backlight control
+bindsym --release XF86MonBrightnessUp	 	exec xbacklight -inc 10
+bindsym --release XF86MonBrightnessDown 	exec xbacklight -dec 10
+
+
