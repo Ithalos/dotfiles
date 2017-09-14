@@ -167,6 +167,10 @@ bar
  }
 
 
+# Bind keys for laptop backlight control
+bindsym XF86MonBrightnessUp 	exec xbacklight -inc 10
+bindsym XF86MonBrightnessDown 	exec xbacklight -dec 10
+
 # Enable tapping support for touchpad
 exec xinput set-prop 12 277 1
 exec xinput set-prop 12 278 1
