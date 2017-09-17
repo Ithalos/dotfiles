@@ -25,6 +25,11 @@ URxvt.background:  rgb:33/33/33
 URxvt.tintColor:   rgb:BB/BB/BB
 URxvt.transparent: True
 
+
+!Black
+URxvt.color0:      rgb:00/00/00
+URxvt.color8:      rgb:00/00/00
+
 ! Blue
 URxvt.color4:      rgb:44/44/FF
 URxvt.color12:     rgb:44/44/FF
