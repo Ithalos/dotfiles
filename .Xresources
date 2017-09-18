@@ -54,6 +54,10 @@ URxvt.color13:     rgb:6D/50/B0
 URxvt.color6:      rgb:00/AB/AB
 URxvt.color14:     rgb:00/AB/AB
 
+! White
+URxvt.colour7:     rgb:FF/FF/FF
+URxvt.colour15:    rgb:FF/FF/FF
+
 ! Colour overview
 ! 0 = Black
 ! 1 = Red;
