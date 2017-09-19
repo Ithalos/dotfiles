@@ -161,7 +161,6 @@ bar
 	{
 		background #1A1A1A
 		statusline #257284
-		# Orange: D64937
 		separator  #64A3B2
 	}
  }
