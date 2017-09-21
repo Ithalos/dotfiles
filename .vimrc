@@ -2,6 +2,9 @@
 "   Ithalos .vimrc
 "
 
+" Enable 256 colours
+set t_Co=256
+
 " Syntax highlighting
 syntax on
 
