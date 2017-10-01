@@ -22,7 +22,7 @@ alias ls='ls --color=auto'
 alias venv='python -m venv'
 
 # Activate an existing virtual environment in the current folder
-alias venvactivate='source ./venv/bin/activate'
+alias activate='source ./venv/bin/activate'
 
 
 # Check current git branch
