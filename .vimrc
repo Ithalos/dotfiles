@@ -25,4 +25,13 @@ set encoding=utf-8
 " Set colourscheme
 colorscheme ithalos
 
+" Display syntax group of selected text
+function DisplaySyntax()
+
+    if !exists("*synstack")
+        return
+    endif
+
+    echo map(synstack(line('.'), col('.')), 'synIDattr(v:val, "name")')
+endfunc
 
