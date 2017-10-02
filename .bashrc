@@ -5,6 +5,9 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+# Set bash history size
+HISTFILESIZE=10000
+
 # Set vim as default editor
 export VISUAL=vim
 export EDITOR="$VISUAL"
@@ -23,7 +26,6 @@ alias venv='python -m venv'
 
 # Activate an existing virtual environment in the current folder
 alias activate='source ./venv/bin/activate'
-
 
 # Check current git branch
 print_git_branch() 
