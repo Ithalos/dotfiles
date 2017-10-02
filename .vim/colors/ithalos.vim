@@ -42,7 +42,7 @@ hi StatusLineNCE        ctermfg=none        ctermbg=none
 hi StatusLine           ctermfg=none        ctermbg=none
 hi VertSplit            ctermfg=none        ctermbg=none
 
-hi Visual               ctermfg=none        ctermbg=none        term=reverse
+hi Visual               ctermfg=none        ctermbg=none        cterm=reverse
 
 hi DiffChange           ctermfg=none        ctermbg=none
 hi DiffText             ctermfg=none        ctermbg=none
