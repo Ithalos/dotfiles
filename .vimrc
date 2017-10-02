@@ -21,3 +21,8 @@ set expandtab
 
 " Set encoding
 set encoding=utf-8
+
+" Set colourscheme
+colorscheme ithalos
+
+
