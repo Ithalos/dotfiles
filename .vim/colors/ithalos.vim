@@ -12,7 +12,7 @@ endif
 
 let g:colors_name = "ithalos"
 
-hi Normal               ctermfg=015         ctermbg=none
+hi Normal               ctermfg=007         ctermbg=none
 hi NonText              ctermfg=none        ctermbg=none
 hi Comment              ctermfg=238         ctermbg=none
 hi Constant             ctermfg=none        ctermbg=none
@@ -29,7 +29,7 @@ hi Function             ctermfg=196         ctermbg=none
 hi Exception            ctermfg=none        ctermbg=none
 hi String               ctermfg=031         ctermbg=none
 hi Character            ctermfg=none        ctermbg=none
-hi Conditional          ctermfg=190         ctermbg=none
+hi Conditional          ctermfg=035         ctermbg=none
 hi Boolean              ctermfg=none        ctermbg=none
 hi Error                ctermfg=none        ctermbg=none
 hi Keyword              ctermfg=none        ctermbg=none
