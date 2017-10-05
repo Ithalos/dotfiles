@@ -11,7 +11,7 @@ general
         colors = true
         interval = 1
 	color_good = "#55FF55"
-	color_degraded = "#BBBBBB"
+	color_degraded = "#F65F1F"
 	color_bad = "#FF5555"
 }
 
