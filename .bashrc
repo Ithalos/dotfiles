@@ -12,12 +12,12 @@ HISTFILESIZE=10000
 export VISUAL=vim
 export EDITOR="$VISUAL"
 
+# Aliases
 # Set up alias for version control
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
 
-# Aliases
-# Set ls to use colours by default
-alias ls='ls --color=auto'
+# Set ls to use colours and list formatting by default
+alias ls='ls -l --color=auto'
 
 
 # Python virtual environment commands
