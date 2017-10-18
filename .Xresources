@@ -20,9 +20,8 @@ URxvt.internalBorder: 12
 URxvt.intensityStyles: True
 
 ! Main colours & transparency
-URxvt.foreground:  rgb:25/72/84
-URxvt.background:  rgb:33/33/33
-URxvt.tintColor:   rgb:AA/AA/AA
+URxvt.foreground:  rgb:DD/DD/DD
+URxvt.tintColor:   rgb:44/44/44
 URxvt.transparent: True
 
 
