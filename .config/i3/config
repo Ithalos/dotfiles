@@ -165,7 +165,7 @@ bar
 exec setxkbmap be
 
 # Set background
-exec feh --bg-center ~/Pictures/mgS2xtc.png
+exec feh --bg-center ~/Pictures/current_wallpaper.jpg
 
 # Bind keys for laptop backlight control
 bindsym --release XF86MonBrightnessUp	 	exec xbacklight -inc 10
