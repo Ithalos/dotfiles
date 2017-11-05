@@ -11,8 +11,8 @@ general
         colors = true
         interval = 1
 	color_good = "#55FF55"
-	color_degraded = "#F65F1F"
-	color_bad = "#FF5555"
+	color_degraded = "#F5CE42"
+	color_bad = "#FF2222"
 }
 
 order += "disk /"
